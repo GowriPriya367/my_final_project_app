@@ -20,7 +20,7 @@ page = st.sidebar.radio("Go to", ["Home", "Country Analysis", "Global Trends"])
 # Home Page
 # Home Page
 if page == "Home":
-    st.title("🌾 Pesticides Use Dashboard")
+    st.title("🌍 Crop Protection and Pesticide Usage Trends")
     st.write("""
     Welcome to the **Pesticides Use Dashboard**. This app allows you to explore global pesticide usage data.
     """)
